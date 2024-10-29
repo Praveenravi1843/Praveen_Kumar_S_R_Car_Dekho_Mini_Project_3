@@ -1,0 +1,11 @@
+make,model,year,mileage,fuel_type,transmission,color,price
+Toyota,Corolla,2015,60000,Petrol,Automatic,Red,10000
+Honda,Civic,2016,30000,Petrol,Manual,Blue,20000
+Ford,Focus,2017,50000,Diesel,Automatic,Black,30000
+BMW,X3,2018,45000,Petrol,Manual,White,40000
+Audi,A4,2019,25000,Diesel,Automatic,Silver,50000
+Toyota,Camry,2015,70000,Petrol,Automatic,Gray,60000
+Honda,Accord,2016,40000,Petrol,Manual,Green,70000
+Ford,Fusion,2017,30000,Diesel,Automatic,Yellow,80000
+BMW,X5,2018,35000,Petrol,Manual,Orange,90000
+Audi,Q5,2019,20000,Diesel,Automatic,Brown,100000
